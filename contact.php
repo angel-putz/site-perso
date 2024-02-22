@@ -75,7 +75,7 @@
     </div>
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
     <div class="text-center">
-    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Réalisation</h1>
+    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Contact</h1>
 
 
     <div class="mt-6 text-gray-500">
@@ -87,6 +87,13 @@
         </li>
         <li>
             <p>Telephone : 06 66 61 74 52</p>
-
+        </li>
+        <li>
+            <p>Linkedin : <a href="https://www.linkedin.com/in/angel-putz-65a77829a/" target="_blank">Angel Putz</a></p>
+        </li>
+        <li>
+            <p>Adresse : 11 Rue Revel, 83000 Toulon</p>
+        </li>
+    </ul>
 </body>
 </html>
