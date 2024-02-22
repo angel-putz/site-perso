@@ -80,7 +80,7 @@
 
     <div class="mt-6 text-gray-500">
 
-    <p>Les réalisations que j'ai pu faire dans le cadre de mes études et de mes projets personnels.</p>
+    <p>Les réalisations que j'ai pu faire dans le cadre de mes études et de mes projets personnels : </p>
     <ul>
         <li>Création d'un site web pour des réservations de salles</li>
         <li>Création d'un fan site</li>
