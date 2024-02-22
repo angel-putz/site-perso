@@ -8,6 +8,7 @@
 </head>
 <body>
 <div class="bg-white">
+
 <header class="absolute inset-x-0 top-0 z-50">
     <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
@@ -74,29 +75,15 @@
     </div>
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
     <div class="text-center">
-    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Compétence</h1>
+    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Parcours</h1>
 
     <div class="mt-6 text-gray-500">
-    <p>Je suis développeur web et mobile, je suis spécialisé dans le développement d'application web et mobile. Je suis également spécialisé dans le développement de site web et d'application mobile.</p>
+    <p> Je suis actuellement en formation de développeur web à la Plateforme.io a Toulon </p>
+
+    <p> J'ai egalement un BTS Systemes Numérique option Informatique et Réseaux fais au lycée Rouviere </p>
+
+    <p> J'ai eu un BAC général option Mathématique et NSI au lycée Coudon </p>
     </div>
-
-    <div class="mt-6 text-gray-500">
-    <p>Je suis spécialisé dans les technologies suivantes:</p>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>MySQL</li>
-        <li>PHP</li>
-        <li>Python</li>
-        <li>AJAX</li>
-        <li>Arduino</li>
-        <li>Bootstrap</li>
-        <li>Tailwind CSS</li>
-        <li>WordPress</li>
-      </ul>
-    
-
 
 </body>
 </html>

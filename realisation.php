@@ -3,16 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <script src="https://cdn.tailwindcss.com/"></script>
+    <title>Document</title>
 </head>
 <body>
 <div class="bg-white">
+
 <header class="absolute inset-x-0 top-0 z-50">
     <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
         <a href="index.php" class="-m-1.5 p-1.5">
-          <span class="sr-only">Your Company</span>
+          <span class="sr-only"></span>
           <img class="h-8 w-auto" src="./asset/maison-icone.png" alt="">
         </a>
       </div>
@@ -68,35 +69,25 @@
     </div>
   </header>
 
+
   <div class="relative isolate px-6 pt-14 lg:px-8">
     <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
       <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
     </div>
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
     <div class="text-center">
-    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Compétence</h1>
+    <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Réalisation</h1>
 
     <div class="mt-6 text-gray-500">
-    <p>Je suis développeur web et mobile, je suis spécialisé dans le développement d'application web et mobile. Je suis également spécialisé dans le développement de site web et d'application mobile.</p>
+
+    <p>Les réalisations que j'ai pu faire dans le cadre de mes études et de mes projets personnels.</p>
+    <ul>
+        <li>Création d'un site web pour des réservations de salles</li>
+        <li>Création d'un fan site</li>
+        <li>Création d'un site web pour plusieurs mini-jeu (memory , juste-prix etc)</li>
+        <li>Création d'un module de commande pour un laboratoire de recherche</li>
+    </ul>
+
     </div>
-
-    <div class="mt-6 text-gray-500">
-    <p>Je suis spécialisé dans les technologies suivantes:</p>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>MySQL</li>
-        <li>PHP</li>
-        <li>Python</li>
-        <li>AJAX</li>
-        <li>Arduino</li>
-        <li>Bootstrap</li>
-        <li>Tailwind CSS</li>
-        <li>WordPress</li>
-      </ul>
-    
-
-
 </body>
 </html>
