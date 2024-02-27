@@ -92,7 +92,7 @@
             <p>Linkedin : <a href="https://www.linkedin.com/in/angel-putz-65a77829a/" target="_blank">Angel Putz</a></p>
         </li>
         <li>
-            <p>Adresse : 11 Rue Revel, 83000 Toulon</p>
+            <p>Adresse : 83000 Toulon</p>
         </li>
     </ul>
 </div>
