@@ -85,7 +85,7 @@
         <li><a href="./reservation_salle/index.php">Création d'un site web pour des réservations de salles</a></li>
         <li><a href="./fan_site/index.html">Création d'un fan site</a></li>
         <li><a href="./memory/index.php">Création d'un site web pour plusieurs mini-jeu (memory , juste-prix etc)</a></li>
-        <li>Création d'un module de commande pour un laboratoire de recherche</li>
+        <li><a href="./module_commande/CommandeV6.ino">Création d'un module de commande pour un laboratoire de recherche</a></li>
     </ul>
 
     </div>
