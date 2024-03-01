@@ -1,0 +1,103 @@
+.entete{
+    background-color: yellow;
+    display: flex;
+    text-align: center;
+    justify-content: space-between; 
+}
+.titre{
+    text-align: center;
+    font-size: 1.2rem;
+
+}
+
+.gras{
+    font-weight: bolder;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+
+footer{
+    background-color: grey;
+    color: white;
+}
+
+.back{
+    background-image: url(https://cdn.media.amplience.net/i/metallica/upcoming-tour-dates_hero?fmt=auto&maxW=1900);
+    padding: 25%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.milieu{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+.back2{                                                                    /*sert au fond de la page index*/
+    background-image: url(72-seasons-metallica-album-cover.png);
+    min-height: 90vh;
+    background-size: cover;
+    background-position: bottom;
+}
+.back3{                                                                         /*sert au fond de la page fan-site*/
+    background-image: url(./fond-fansite.jpg);
+    min-height: 90vh;
+    background-size: cover;
+    background-position: bottom;
+    padding: 25%;
+    color: white;
+}
+
+.back4{
+    background-image: url(./fond-contact.jpg);
+    min-height: 90vh;
+    background-size: cover;
+    background-position: bottom;
+}
+.back5{
+    background-image: url(./fond-histoire.webp);
+    min-height: 90vh;
+    background-size: cover;
+    background-position: bottom;
+}
+.animation{
+    animation: 2s linear 0.1s 1 running slidein;
+    animation-name: slidein;
+}
+@keyframes slidein {
+    from {
+      transform: translate(12px, 50%);
+    }
+  
+    to {
+      transform: rotate(360deg)
+    }
+  }
+
+.colonnes{
+    display: flex;
+    margin: 0 10px;
+    flex: 1;
+    border-radius: 0.5em;
+    border: 2px solid;
+    padding: 20px 10px;
+}
+
+.container {
+    display: flex;
+}
+  
+.container>* {
+    margin: 0 10px;
+    flex: 1;
+}
+
+.gras2{
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+@media  screen and (max-width: 640px)  {
+    
+}

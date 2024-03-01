@@ -82,8 +82,8 @@
 
     <p>Les réalisations que j'ai pu faire dans le cadre de mes études et de mes projets personnels : </p>
     <ul>
-        <li>Création d'un site web pour des réservations de salles</li>
-        <li>Création d'un fan site</li>
+        <li><a href="./reservation_salle/index.php">Création d'un site web pour des réservations de salles</a></li>
+        <li><a href="./fan_site/index.html">   Création d'un fan site</a></li>
         <li>Création d'un site web pour plusieurs mini-jeu (memory , juste-prix etc)</li>
         <li>Création d'un module de commande pour un laboratoire de recherche</li>
     </ul>
