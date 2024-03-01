@@ -84,6 +84,5 @@
 
     <p> J'ai eu un BAC général option Mathématique et NSI au lycée Coudon </p>
     </div>
-
 </body>
 </html>
